@@ -6,4 +6,6 @@ sklearn-preprocessing-Normalizer
 
 sklearn-preprocessing-RobustScaler
 
-sklearn-preprocessin-StandardScaler
+sklearn-preprocessing-StandardScaler
+
+sklearn-preprocessing-MinMaxScaler
